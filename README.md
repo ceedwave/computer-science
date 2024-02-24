@@ -1,6 +1,6 @@
 # computer-science
 
-### 1학년 
+## 1학년 
 <details>
 <summary>1학기</summary>
 <div markdown="1">
@@ -16,7 +16,10 @@
 </div>
 </details>
 
-##### 2학기
+<details>
+<summary>2학기</summary>
+<div markdown="1">
+
 * (전공)C++프로그래밍
 * (전공)컴퓨터과학개론
 * (전공)멀티미디어시스템
@@ -24,8 +27,15 @@
 * (교양)대학영어
 * (교양)심리학에게묻다
 
-### 2학년
-##### 1학기
+</div>
+</details>
+
+
+## 2학년
+<details>
+<summary>1학기</summary>
+<div markdown="1">
+
 * (전공)이산수학
 * (전공)Java프로그래밍
 * (전공)HTML5웹프로그래밍
@@ -33,3 +43,21 @@
 * (교양)생활과건강
 * (교양)생명과환경
 
+</div>
+</details>
+
+
+
+
+
+
+<!-- 
+<details>
+<summary>토글 코드</summary>
+<div markdown="1">
+
+내용
+
+</div>
+</details> 
+-->
